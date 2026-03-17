@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "death bed (coffee for your head) (Official Video)",
+  "base_artist": "Powfu",
+  "createdAt": "2026-03-17T12:39:35.427765Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/01_death_bed_(coffee_for_your_head)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu & beabadoobee",
+      "has_synced": true,
+      "path": "select/02_death_bed_(coffee_for_your_head)_Powfu_&_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/03_death_bed_(coffee_for_your_head)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/04_death_bed_(coffee_for_your_head)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Death Bed  (Coffee For Your Head)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/05_Death_Bed_(Coffee_For_Your_Head)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/06_death_bed_(coffee_for_your_head)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Death bed (coffee for your head)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/07_Death_bed_(coffee_for_your_head)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/08_death_bed_(coffee_for_your_head)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu • beabadoobee",
+      "has_synced": true,
+      "path": "select/09_death_bed_(coffee_for_your_head)_Powfu_•_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head) (Official Video)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/10_death_bed_(coffee_for_your_head)_(Official_Video)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu & Beabadoobee",
+      "has_synced": true,
+      "path": "select/11_death_bed_(coffee_for_your_head)_Powfu_&_Beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Beabadoobee",
+      "has_synced": true,
+      "path": "select/12_death_bed_(coffee_for_your_head)_Beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu - Topic",
+      "has_synced": true,
+      "path": "select/13_death_bed_(coffee_for_your_head)_Powfu_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu, beabadoobee",
+      "has_synced": true,
+      "path": "select/14_death_bed_(coffee_for_your_head)_Powfu,_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu, beabadoobee",
+      "has_synced": true,
+      "path": "select/15_death_bed_(coffee_for_your_head)_Powfu,_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu & Beabadoobee",
+      "has_synced": true,
+      "path": "select/16_death_bed_(coffee_for_your_head)_Powfu_&_Beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/17_death_bed_(coffee_for_your_head)_Powfu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu, beabadoobee",
+      "has_synced": false,
+      "path": "select/pl_01_death_bed_(coffee_for_your_head)_Powfu,_beabadoobee.txt"
+    }
+  ]
+}
